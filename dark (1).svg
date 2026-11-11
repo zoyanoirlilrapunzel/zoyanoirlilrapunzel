@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1180" height="610" viewBox="0 0 1180 610"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Zoyabi Shaikh — GitHub profile</title>
+  <desc id="desc">A terminal-inspired profile banner for Zoyabi Shaikh, a Computer Science and Engineering student specializing in Data Science, with a character-rendered portrait, technical focus, selected projects, toolkit and GitHub links.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050B16"/><stop offset="1" stop-color="#0A1730"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/><stop offset=".52" stop-color="#5DE4F2"/><stop offset="1" stop-color="#52D6A4"/>
+      <animate attributeName="x1" values="0;0.2;0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#5DE4F2" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#5DE4F2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="portraitFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".0"/>
+      <stop offset=".18" stop-color="#FFFFFF" stop-opacity=".0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".0"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#17304A" stroke-width=".65" opacity=".65"/>
+    </pattern>
+    <clipPath id="portraitClip"><rect x="48" y="126" width="390" height="392" rx="12"/></clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .ascii { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; white-space: pre; }
+      .label { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10px; letter-spacing: 1.8px; fill: #9DB0C7; }
+      .value { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 14px; fill: #F3F8FF; }
+      .small { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #9DB0C7; }
+      .heading { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 16px; font-weight: 700; letter-spacing: 1.4px; fill: #F3F8FF; }
+    </style>
+  </defs>
+
+  <rect width="1180" height="610" rx="24" fill="url(#background)"/>
+  <rect width="1180" height="610" rx="24" fill="url(#grid)" opacity=".55"/>
+  <circle cx="210" cy="250" r="260" fill="url(#glow)"/>
+  <circle cx="1000" cy="420" r="280" fill="url(#glow)" opacity=".7"/>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="#24425D" stroke-width="1.2"/>
+
+  <!-- editor chrome -->
+  <rect x="18" y="18" width="1144" height="42" rx="11" fill="#0D1A2B" stroke="#24425D"/>
+  <circle cx="40" cy="39" r="5" fill="#FF6B6B"/><circle cx="58" cy="39" r="5" fill="#F4C75E"/><circle cx="76" cy="39" r="5" fill="#51C98B"/>
+  <text x="98" y="43" class="mono" font-size="12" fill="#9DB0C7">zoyabi@profile  ~  / README.md</text>
+  <text x="1090" y="43" text-anchor="end" class="mono" font-size="10" letter-spacing="1.4" fill="#52D6A4">● ONLINE</text>
+
+  <!-- left visual map -->
+  <rect x="28" y="76" width="430" height="510" rx="18" fill="#0D1A2B" fill-opacity=".72" stroke="#24425D"/>
+  <text x="52" y="105" class="label" fill="#5DE4F2">VISUAL.MAP</text>
+  <text x="433" y="105" text-anchor="end" class="label">01 / IDENTITY</text>
+  <rect x="48" y="119" width="390" height="398" rx="12" fill="#102238" fill-opacity=".55" stroke="#24425D" stroke-opacity=".8"/>
+  <g clip-path="url(#portraitClip)">
+    <rect x="48" y="126" width="390" height="392" fill="url(#glow)"/>
+    <text x="105" y="154.00" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">                       .r;;   .</text>
+<text x="105" y="160.65" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">                     2GSS#9SMhS#SA</text>
+<text x="105" y="167.30" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">                   5@@@3S&amp;@@@9h9@@&amp;s</text>
+<text x="105" y="173.95" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">                 ,9@&amp;&amp;H3B@@#@@hS@@@@M</text>
+<text x="105" y="180.60" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">                i&amp;@BB93G@@&amp;2B@HB@@@@@M</text>
+<text x="105" y="187.25" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">               h@@@&amp;@@#M9@@5S@MB@@@@@@H</text>
+<text x="105" y="193.90" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">              X@@B&amp;@@@@GB@&amp;hH@9&amp;@@@@@&amp;@2</text>
+<text x="105" y="200.55" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">             i@@9B@@@@@@@#H55H&amp;@@@@@&amp;B&amp;@;</text>
+<text x="105" y="207.20" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">             9@99&amp;@@@@&amp;G5XsiiXh9&amp;B&amp;&amp;@B#@9</text>
+<text x="105" y="213.85" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">            ,&amp;9#9B@@@BMXi;;:::;59#SS&amp;BSB@5</text>
+<text x="105" y="220.50" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">            G&amp;9#9B&amp;&amp;BHAi::::,,:sM99#99#9@#</text>
+<text x="105" y="227.15" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">           i@&amp;9B999BGAi::,,,,,:i2S&amp;B&amp;9SB@@X</text>
+<text x="105" y="233.80" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">           h@B@&amp;99993:..,,,,,,,:rhB&amp;@@9B@@G</text>
+<text x="105" y="240.45" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">          .&amp;@@@&amp;B99#H3Ai:::,::;rXhB@&amp;@&amp;B@@H</text>
+<text x="105" y="247.10" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">          X@@@@@B9#2s232r;;;r2MGGG#@&amp;@@B&amp;@#</text>
+<text x="105" y="253.75" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">          3@@@@@BBG225h5s::r5hh32A3B@&amp;@&amp;&amp;@@i</text>
+<text x="105" y="260.40" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">         ,@@@@@@&amp;BBM3&amp;SHAi.iMMMhHHGB@&amp;@@@@@h</text>
+<text x="105" y="267.05" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">         2&amp;@@@@@9MhA2Gh3si.:3MGH&amp;#B@@@&amp;@@@@B,</text>
+<text x="105" y="273.70" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">         2&amp;@@@@B3r:;rssri;,:s25323H#B&amp;BB@@@@5</text>
+<text x="105" y="280.35" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">         A&amp;@@9B3,.,:;;;;;:.,;ssssrrXG&amp;B9B@@@G</text>
+<text x="105" y="287.00" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">        .G@@@&amp;Bs,,,:::;;;::;:;ii;:;i59@&amp;99&amp;@B,</text>
+<text x="105" y="293.65" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">        :B@@@BGX::,,,:;;MsrHA:;:,;is2S@@@&amp;&amp;@@,</text>
+<text x="105" y="300.30" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">        s#@@@#XA:,,,,:;ssrX35:,:;;rX59@@@@@&amp;&amp;:</text>
+<text x="105" y="306.95" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">        ih@@@@5X;,,.,,:is2AXi,,:irsAMBB@@@@@@A</text>
+<text x="105" y="313.60" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">        .5@@@@SH;:,,::i233M3X;;irsA2G#B@@@@@Bs</text>
+<text x="105" y="320.25" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">         3@@@@B@s:::r3h3hhhMHM2XXX259@S@@@@@9:</text>
+<text x="105" y="326.90" font-size="5.65" letter-spacing="1.6" fill="#72DFF0" opacity="0.78" class="ascii">         h@@@@@@G,;;irA2535hHHhAAA5M@@@@@@@@B.</text>
+<text x="105" y="333.55" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">         S@&amp;@@@@@3:;;;is2333352A22h@@@@@@@@@@;</text>
+<text x="105" y="340.20" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">         9@@@@@@@@3i;;;;isXXAA253M&amp;@@@@@@@@@@5</text>
+<text x="105" y="346.85" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">         B@&amp;B@@@@@@5s;::;;rXX23MG#@@@@@@@&amp;@@@G</text>
+<text x="105" y="353.50" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">        :B&amp;@9@@@@@@3sriiirsA5hHGG#@@@@@@B9@@@#,</text>
+<text x="105" y="360.15" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">        XB&amp;@9@@@@@@3iirirsA2hMHhh#@@@@@&amp;B9@@@Bs</text>
+<text x="105" y="366.80" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">        MB@@9@@@@@@hiiii;rXA5h353#@@@@@B99@@&amp;@h</text>
+<text x="105" y="373.45" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">       i9&amp;@@B@@@@@@hi;;;;isX25225#@@@@@9S&amp;@@&amp;@#i</text>
+<text x="105" y="380.10" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">       39@@@B@@@@@@hri;;;irsXAAA3#@@@@@BB@&amp;&amp;&amp;B@3</text>
+<text x="105" y="386.75" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">      iM@@@@&amp;@@@9M@3ri;;;;irsXXA3#@@@@@@@@B9&amp;9@#;</text>
+<text x="105" y="393.40" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">     .X9@&amp;@&amp;&amp;@@@2X@3ii;;;iirrXXA3#@@@@@@@@B9BB9@5</text>
+<text x="105" y="400.05" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">    ,.M@@@&amp;B@@@G.,Bhsiiiiirrsss23G&amp;@@@@@@@B#9BSB#i</text>
+<text x="105" y="406.70" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">    .;&amp;@&amp;&amp;B@@@Si  MH2siiiirrrsX25M9&amp;&amp;@@@@@@S#9B#B5</text>
+<text x="105" y="413.35" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">   :.G@BB&amp;@##3r   iH2XsiiriiirX22hHS@@@@@@@9S9BBBSr</text>
+<text x="105" y="420.00" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">  r3GB99#H22;.     22ssirr;;:iXXAhX2@@@@@@@@9S9&amp;&amp;BMi</text>
+<text x="105" y="426.65" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii"> ,ri::iii,;:       ,2XXrisi::isA5h.i@@@@@@@@&amp;B#9B9Bh:</text>
+<text x="105" y="433.30" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">          ,         rXriiri;;;;rAr ;B@@@@@@@&amp;&amp;B##99SA</text>
+<text x="105" y="439.95" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                     si;;;;;;:;is  .#@@@@@@@BB&amp;#G9&amp;B#r</text>
+<text x="105" y="446.60" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                     ,Xi;::::::r:   G@@@@@@@@B&amp;@&amp;99&amp;@#:</text>
+<text x="105" y="453.25" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                      :r;:::;:;i    A@@@@@@@@@&amp;@@@@&amp;&amp;@G</text>
+<text x="105" y="459.90" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                 ,;    :i::::;;   isi&amp;@@@@@@@@&amp;&amp;@@@@&amp;@9</text>
+<text x="105" y="466.55" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                ,,.      ;:::,   ,isAG@@@@@&amp;&amp;&amp;BB@@@@@@@</text>
+<text x="105" y="473.20" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                         ,::,  .::,:rH@@@@@&amp;&amp;B99&amp;@@@@@@</text>
+<text x="105" y="479.85" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                          ,;  ::.   i3@@@@@&amp;99#9B@@@@@@</text>
+<text x="105" y="486.50" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                                    i3@@@@@@&amp;9#9&amp;&amp;@@@@@</text>
+<text x="105" y="493.15" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                                   .;M@@@@@@@@&amp;BBB&amp;@@@@</text>
+<text x="105" y="499.80" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                                   ,;M@@@@@@@@@@@&amp;&amp;&amp;9&amp;@</text>
+<text x="105" y="506.45" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                                   ,:G@@@@@&amp;@@@@@@@&amp;99&amp;</text>
+<text x="105" y="513.10" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                                   ,;9@@@@@&amp;@@@@@@@@@9#</text>
+<text x="105" y="519.75" font-size="5.65" letter-spacing="1.6" fill="#A6A0F8" opacity="0.78" class="ascii">                                   .X&amp;@@@@@&amp;&amp;@@@@@@@@&amp;9</text>
+    <rect x="48" y="126" width="390" height="392" fill="url(#portraitFade)"/>
+    <rect x="48" y="126" width="390" height="392" fill="none" stroke="#5DE4F2" stroke-opacity=".14"/>
+    <path d="M48 300H438" stroke="#5DE4F2" stroke-opacity=".16" stroke-width="1">
+      <animate attributeName="opacity" values=".05;.22;.05" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="52" y="544" class="mono" font-size="19" font-weight="700" fill="#F3F8FF">Zoyabi Shaikh</text>
+  <text x="52" y="565" class="mono" font-size="10" letter-spacing="1.3" fill="#5DE4F2">CSE · DATA SCIENCE STUDENT</text>
+  <text x="433" y="565" text-anchor="end" class="mono" font-size="10" fill="#9DB0C7">~/profile $ build</text>
+
+  <!-- right system panel -->
+  <rect x="478" y="76" width="674" height="510" rx="18" fill="#0D1A2B" fill-opacity=".78" stroke="#24425D"/>
+  <text x="506" y="105" class="label" fill="#5DE4F2">SYSTEM.INFO</text>
+  <text x="1124" y="105" text-anchor="end" class="label">PROFILE / 2026</text>
+  <path d="M502 120H1128" stroke="#24425D"/>
+  <text x="506" y="147" class="small">zoyabi@profile:~$</text>
+  <text x="638" y="147" class="small" fill="#52D6A4">./profile.sh</text>
+  <text x="506" y="181" class="mono" font-size="27" font-weight="700" fill="#F3F8FF">Zoyabi Shaikh</text>
+  <text x="506" y="205" class="mono" font-size="14" fill="#5DE4F2">CSE · DATA SCIENCE</text>
+  <text x="506" y="229" class="small">Exploring the space between software, data and design.</text>
+
+  <!-- profile rows -->
+  <rect x="502" y="249" width="626" height="92" rx="11" fill="#102238" stroke="#24425D" stroke-opacity=".8"/>
+  <text x="520" y="273" class="label">FOCUS</text>
+  <text x="520" y="296" class="value">Python development  ·  Data analysis</text>
+  <text x="520" y="320" class="value">Data preprocessing  ·  UI/UX concepts</text>
+  <text x="1110" y="273" text-anchor="end" class="label">NAVI MUMBAI, INDIA</text>
+
+  <!-- projects -->
+  <text x="506" y="371" class="label" fill="#5DE4F2">SELECTED.WORK</text>
+  <rect x="502" y="384" width="302" height="76" rx="10" fill="#102238" stroke="#24425D"/>
+  <rect x="818" y="384" width="310" height="76" rx="10" fill="#102238" stroke="#24425D"/>
+  <text x="520" y="409" class="mono" font-size="14" font-weight="700" fill="#F3F8FF">Meraqi</text>
+  <text x="520" y="431" class="small">Online art-learning app concept</text>
+  <text x="836" y="409" class="mono" font-size="14" font-weight="700" fill="#F3F8FF">Data dashboards</text>
+  <text x="836" y="431" class="small">Preprocessing &amp; data-quality workflows</text>
+
+  <!-- toolkit pills -->
+  <text x="506" y="490" class="label" fill="#5DE4F2">TOOLKIT</text>
+  <g class="mono" font-size="10" fill="#F3F8FF">
+    <rect x="502" y="502" width="74" height="27" rx="7" fill="#102238" stroke="#24425D"/><text x="539" y="519" text-anchor="middle">Python</text>
+    <rect x="584" y="502" width="83" height="27" rx="7" fill="#102238" stroke="#24425D"/><text x="625" y="519" text-anchor="middle">Streamlit</text>
+    <rect x="675" y="502" width="70" height="27" rx="7" fill="#102238" stroke="#24425D"/><text x="710" y="519" text-anchor="middle">Pandas</text>
+    <rect x="753" y="502" width="70" height="27" rx="7" fill="#102238" stroke="#24425D"/><text x="788" y="519" text-anchor="middle">NumPy</text>
+    <rect x="831" y="502" width="92" height="27" rx="7" fill="#102238" stroke="#24425D"/><text x="877" y="519" text-anchor="middle">Matplotlib</text>
+    <rect x="931" y="502" width="102" height="27" rx="7" fill="#102238" stroke="#24425D"/><text x="982" y="519" text-anchor="middle">scikit-learn</text>
+    <rect x="1041" y="502" width="68" height="27" rx="7" fill="#102238" stroke="#24425D"/><text x="1075" y="519" text-anchor="middle">Figma</text>
+  </g>
+  <text x="506" y="559" class="small">github.com/zoyanoirlilrapunzel</text>
+  <text x="1128" y="559" text-anchor="end" class="mono" font-size="10" fill="#52D6A4">OPEN TO LEARNING</text>
+
+  <!-- subtle scanline -->
+  <rect x="28" y="76" width="1124" height="2" fill="url(#accentLine)" opacity=".7">
+    <animate attributeName="y" values="76;584;76" dur="18s" repeatCount="indefinite"/>
+  </rect>
+</svg>
